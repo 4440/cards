@@ -1,0 +1,15 @@
+---
+created: 2021-08-07T11:46:44-03:00
+modified: 2021-08-07T11:49:25-03:00
+---
+
+# Setup 2021
+
+- solar on
+- rain barrels out
+- peat moss in toilet
+- stove
+- pump in well — prime
+- fire pit
+- clean eaves trough 
+-
