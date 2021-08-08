@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-08T11:02:17-03:00
+modified: 2021-08-08T11:31:56-03:00
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] bleach 
 - [ ] water
 - [ ] ice
+- [ ] milk
