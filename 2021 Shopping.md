@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-08T11:51:42-03:00
+modified: 2021-08-08T16:11:26-03:00
 type: Checklist
 ---
 
@@ -8,9 +8,9 @@ type: Checklist
 
 - [ ] outdoor varnish = thompson’s 
 - [ ] advil cold & sinus
-- [ ] bleach 
-- [ ] water
-- [ ] ice
-- [ ] milk
-- [ ] oil
-- [ ] paper towels
+- [x] ice
+- [x] bleach 
+- [x] water
+- [x] milk
+- [x] oil
+- [x] paper towels
