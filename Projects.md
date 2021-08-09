@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T21:37:18-03:00
-modified: 2021-08-08T11:13:09-03:00
+modified: 2021-08-09T08:57:58-03:00
 ---
 
 # Projects
@@ -12,4 +12,6 @@ modified: 2021-08-08T11:13:09-03:00
 - [[Kitchen]]
 - [[Meditation Kuti]]
 - [[Meditation Hall]]
+- [[Toilet / Bidet Signs]]
+- [[Tar Dock Anchor]]
 -
