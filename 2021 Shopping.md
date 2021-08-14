@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-14T19:43:42-03:00
+modified: 2021-08-14T20:46:30-03:00
 type: Checklist
 ---
 
@@ -11,6 +11,8 @@ type: Checklist
 - [ ] 5 galon pails
 - [ ] peat moss?
 - [ ] advil cold & sinus
+- [ ] kleenex
+- [ ] neti pot
 - [ ] cough syrup 
 - [ ] ice
 - [ ] milk
