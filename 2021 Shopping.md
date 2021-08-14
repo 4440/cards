@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-14T16:38:17-03:00
+modified: 2021-08-14T19:43:15-03:00
 type: Checklist
 ---
 
@@ -12,9 +12,12 @@ type: Checklist
 - [ ] peat moss?
 - [ ] advil cold & sinus
 - [ ] cough syrup 
+- [ ] ice
 - [ ] milk
 - [ ] cream
 - [ ] yogurt
+- [ ] jam
+- [ ] 
 - [x] ice
 - [x] bleach 
 - [x] water
