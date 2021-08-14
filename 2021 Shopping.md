@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-14T19:43:15-03:00
+modified: 2021-08-14T19:43:42-03:00
 type: Checklist
 ---
 
@@ -17,6 +17,8 @@ type: Checklist
 - [ ] cream
 - [ ] yogurt
 - [ ] jam
+- [ ] eggs 
+- [ ] bread
 - [ ] 
 - [x] ice
 - [x] bleach 
