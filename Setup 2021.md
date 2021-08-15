@@ -1,24 +1,15 @@
 ---
-created: 2021-08-07T11:46:44-03:00
-modified: 2021-08-15T10:05:40-03:00
+created: 2021-08-07T11:50:41-03:00
+modified: 2021-08-07T11:52:59-03:00
+type: Checklist
 ---
 
-# 2021 Aug 15 Sunday
+# Setup 2021
 
-emails:
-sara
-darcy
-matt bigby
-mike williams
-bruce
-
-new glasgow:
-ice
-medicine 
-neti pot
-5gal pails
-
-sue’s: 
-print offer to shunamon
-pay off mastercard 
-rental agreement + other docs?
+- [ ] clean eaves troughs 
+- [x] solar on
+- [x] rain barrels out 
+- [x] peat moss in toilet
+- [x] stove
+- [x] pump in well — prime
+- [x] fire pit
