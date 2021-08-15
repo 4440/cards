@@ -1,6 +1,6 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-14T20:46:30-03:00
+modified: 2021-08-15T14:55:37-03:00
 type: Checklist
 ---
 
@@ -10,18 +10,20 @@ type: Checklist
 - [ ] PL
 - [ ] 5 galon pails
 - [ ] peat moss?
-- [ ] advil cold & sinus
-- [ ] kleenex
-- [ ] neti pot
-- [ ] cough syrup 
 - [ ] ice
-- [ ] milk
-- [ ] cream
-- [ ] yogurt
-- [ ] jam
-- [ ] eggs 
-- [ ] bread
+- [ ] cumin seeds
 - [ ] 
+- [x] advil cold & sinus
+- [x] kleenex
+- [x] neti pot
+- [x] cough syrup 
+- [x] milk
+- [x] cream
+- [x] yogurt
+- [x] jam
+- [x] eggs 
+- [x] bread
+- [x] 
 - [x] ice
 - [x] bleach 
 - [x] water
