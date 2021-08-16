@@ -1,16 +1,16 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-15T14:55:37-03:00
+modified: 2021-08-16T17:07:54-03:00
 type: Checklist
 ---
 
 # 2021 Shopping
 
 - [ ] outdoor varnish = thompson’s 
-- [ ] PL
-- [ ] 5 galon pails
-- [ ] peat moss?
-- [ ] ice
+- [x] PL
+- [x] 5 galon pails
+- [x] peat moss?
+- [x] ice
 - [ ] cumin seeds
 - [ ] 
 - [x] advil cold & sinus
