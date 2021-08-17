@@ -1,12 +1,16 @@
 ---
 created: 2021-08-08T09:14:26-03:00
-modified: 2021-08-16T17:07:54-03:00
+modified: 2021-08-16T21:24:51-03:00
 type: Checklist
 ---
 
 # 2021 Shopping
 
 - [ ] outdoor varnish = thompson’s 
+- [ ] led lights usb
+- [ ] gel cell batteries
+- [ ] solar panels 
+- [ ] 
 - [x] PL
 - [x] 5 galon pails
 - [x] peat moss?
