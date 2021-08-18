@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T21:37:18-03:00
-modified: 2021-08-18T06:36:55-03:00
+modified: 2021-08-18T09:34:29-03:00
 ---
 
 # Projects
@@ -9,12 +9,15 @@ modified: 2021-08-18T06:36:55-03:00
 - [[Cabin Lights]]
 - [[Cabin Insulation]]
 
+- [[Toilet Solar]]
+- Toilet / Bidet Signs
+
+- [[Cold Storage]]
+
 - [[Manual Pump]]
 - [[Masks]]
 - [[POL]]
 - [[Picnic Table]]
-- [[Cold Storage]]
-- [[Toilet / Bidet Signs]]
 - [[Tar Dock Anchor]]
 - [[Patio]]
 
