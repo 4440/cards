@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T21:37:18-03:00
-modified: 2021-08-17T15:07:09-03:00
+modified: 2021-08-18T06:36:55-03:00
 ---
 
 # Projects
@@ -9,6 +9,7 @@ modified: 2021-08-17T15:07:09-03:00
 - [[Cabin Lights]]
 - [[Cabin Insulation]]
 
+- [[Manual Pump]]
 - [[Masks]]
 - [[POL]]
 - [[Picnic Table]]
@@ -22,3 +23,4 @@ Epics:
 - [[Kitchen]]
 - [[Meditation Kuti]]
 - [[Meditation Hall]]
+- [[12v Pump]]
