@@ -8,7 +8,7 @@ type: Checklist
 
 - [ ] cables
 - [ ] steel box  (14x12x30”)
-- [ ] 
+- [ ] [[
 - [ ] outdoor varnish = thompson’s 
 - [ ] led lights usb
 - [ ] gel cell batteries
