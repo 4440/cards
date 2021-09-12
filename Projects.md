@@ -1,6 +1,6 @@
 ---
 created: 2021-08-06T21:37:18-03:00
-modified: 2021-08-29T11:14:15-03:00
+modified: 2021-09-12T13:02:04-03:00
 ---
 
 # Projects
@@ -28,8 +28,7 @@ modified: 2021-08-29T11:14:15-03:00
 - [[Patio]]
 - [[Tree orchard]]
 - [[mushroom farm]]
-- [[Kitchen cabinets]]
-- [[Refrigerator]]
+
 
 Epics:
 
@@ -37,3 +36,9 @@ Epics:
 - [[Meditation Kuti]]
 - [[Meditation Hall]]
 - [[12v Pump]]
+
+## Done in 2021
+
+- [[Refrigerator]]
+- [[Kitchen cabinets]]
+
