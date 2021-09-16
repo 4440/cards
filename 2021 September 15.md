@@ -1,6 +1,6 @@
 ---
 created: 2021-09-15T12:33:53-03:00
-modified: 2021-09-16T15:44:32-03:00
+modified: 2021-09-16T16:57:46-03:00
 ---
 
 # 2021 September 16
@@ -8,7 +8,7 @@ modified: 2021-09-16T15:44:32-03:00
 - [x] mail
 - [x] laundry
 - [x] andrea - office 2pm
-- [ ] groceries
+- [x] groceries
 - [ ] Moosehead
 - [ ] matthew / roddy
 
