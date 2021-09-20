@@ -8,18 +8,18 @@ modified: 2021-09-19T10:52:52-03:00
 
 Prep:
 - [ ] charge camera batteries
-- [ ] charge 12v batteries 
+- [ ] charge 12v batteries
 - [ ] locks for toolboxes
 
 Teardown:
 - [ ] cameras
 - [ ] generator
 - [ ] berkey
-- [ ] well 
+- [ ] well
 - [ ] fridge
 - [ ] rain barrels
-- [ ] cupboards 
-- [ ] bathroom windows 
+- [ ] cupboards
+- [x] bathroom windows
 - [ ] Adirondack chairs
 - [ ] canoe
 
