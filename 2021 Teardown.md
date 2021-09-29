@@ -1,6 +1,6 @@
 ---
 created: 2021-09-19T10:42:53-03:00
-modified: 2021-09-29T09:05:45-03:00
+modified: 2021-09-29T09:07:30-03:00
 ---
 
 # 2021 Teardown
@@ -22,6 +22,8 @@ Teardown:
 - [x] bathroom windows
 - [ ] Adirondack chairs
 - [ ] canoe
+- [ ] kayaks
+- [ ] bicycle
 - [ ] birch stump
 
 Unimportant:
