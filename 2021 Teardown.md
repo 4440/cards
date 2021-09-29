@@ -1,13 +1,13 @@
 ---
 created: 2021-09-19T10:42:53-03:00
-modified: 2021-09-29T08:58:22-03:00
+modified: 2021-09-29T09:05:45-03:00
 ---
 
 # 2021 Teardown
 
 Prep:
-- [ ] charge camera batteries
-- [ ] charge 12v batteries
+- [x] charge camera batteries
+- [x] charge 12v batteries
 - [ ] locks for toolboxes
 
 Teardown:
