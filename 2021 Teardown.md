@@ -1,6 +1,6 @@
 ---
 created: 2021-09-19T10:42:53-03:00
-modified: 2021-09-29T09:07:30-03:00
+modified: 2021-09-29T17:57:35-03:00
 ---
 
 # 2021 Teardown
@@ -18,7 +18,7 @@ Teardown:
 - [ ] well
 - [ ] fridge
 - [ ] rain barrels
-- [ ] cupboards
+- [x] cupboards
 - [x] bathroom windows
 - [ ] Adirondack chairs
 - [ ] canoe
@@ -27,6 +27,6 @@ Teardown:
 - [ ] birch stump
 
 Unimportant:
-- [ ] firewood
+- [x] firewood
 - [ ] pine needles
 - [ ] clean composter
