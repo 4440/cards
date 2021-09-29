@@ -1,10 +1,9 @@
 ---
 created: 2021-09-19T10:42:53-03:00
-modified: 2021-09-19T10:52:52-03:00
+modified: 2021-09-29T08:58:22-03:00
 ---
 
 # 2021 Teardown
-
 
 Prep:
 - [ ] charge camera batteries
@@ -12,6 +11,7 @@ Prep:
 - [ ] locks for toolboxes
 
 Teardown:
+- [ ] burn garbage 
 - [ ] cameras
 - [ ] generator
 - [ ] berkey
@@ -22,6 +22,7 @@ Teardown:
 - [x] bathroom windows
 - [ ] Adirondack chairs
 - [ ] canoe
+- [ ] birch stump
 
 Unimportant:
 - [ ] firewood
