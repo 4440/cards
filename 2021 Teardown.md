@@ -1,6 +1,6 @@
 ---
 created: 2021-09-19T10:42:53-03:00
-modified: 2021-09-30T20:16:01-03:00
+modified: 2021-09-30T20:17:33-03:00
 ---
 
 # 2021 Teardown
@@ -26,6 +26,9 @@ Teardown:
 - [ ] rain barrels
 - [ ] canoe
 - [ ] kayaks
+- [ ] steven clothes
+- [ ] toilet 
+- [ ] cabin
 
 Unimportant:
 - [x] firewood
