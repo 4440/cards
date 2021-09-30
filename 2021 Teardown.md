@@ -1,6 +1,6 @@
 ---
 created: 2021-09-19T10:42:53-03:00
-modified: 2021-09-30T17:02:35-03:00
+modified: 2021-09-30T18:28:56-03:00
 ---
 
 # 2021 Teardown
@@ -12,7 +12,7 @@ Prep:
 
 Teardown:
 - [x] burn garbage 
-- [ ] cameras
+- [x] cameras
 - [x] generator
 - [x] berkey
 - [ ] well
