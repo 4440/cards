@@ -1,10 +1,11 @@
 ---
 created: 2021-08-06T21:37:18-03:00
-modified: 2021-09-12T13:02:04-03:00
+modified: 2023-05-26T15:41:31-03:00
 ---
 
 # Projects
 
+- [[Cabin Loft Extension]]
 - [[Cabin Siding]]
 - [[Cabin Lights]]
 - [[Cabin Insulation]]
@@ -41,4 +42,3 @@ Epics:
 
 - [[Refrigerator]]
 - [[Kitchen cabinets]]
-
